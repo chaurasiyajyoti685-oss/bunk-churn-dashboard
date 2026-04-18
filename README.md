@@ -1,1 +1,1 @@
-# blinkit-data-dashboard
+# Bank-Churn-dashboard
